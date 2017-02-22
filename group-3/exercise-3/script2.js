@@ -10,7 +10,7 @@ let greetings = [
     {
         greeting: "How do you do",
         person: "officer"
-    }
+    }z
 ]
 
 console.log(greetings);
